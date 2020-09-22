@@ -13,6 +13,6 @@ light is bad because microalgae could appear in the glasses of the aquarium. But
 4) Initially, the motor will feed the fishes two times each day, when it's 7:00 pm the light is turned off so the program will turn on the light while
 feeding in order to help the fishes to see the food and can eat easily
 
-5)Internally the Arduino is connected to an RTC (Real Time Clock) powered by a small battery. The first time you load the program it's necessary to 
+5) Internally the Arduino is connected to an RTC (Real Time Clock) powered by a small battery. The first time you load the program it's necessary to 
 configure the initial hour, minute, second, and date. After that, if the Arduino is turned in off or energy cut occur, then the next time the Arduino 
 start the previous configured date and time will keep intact.
