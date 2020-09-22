@@ -1,4 +1,4 @@
-# fishTank
+# FishTank
 This project is to be uploaded into Arduino microcontroller and the goal is to control two relays, the first one is for control a DC geared motor
 and the second is to control the LED light of the fisher tank.
 
